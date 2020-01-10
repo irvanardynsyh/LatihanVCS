@@ -20,7 +20,9 @@ Instal terlebih dahulu **Git** dengan cara mendownloadnya di halaman **http://gi
 Silahkan klik tombol **Next** hingga selesai
 
 ## 2) Registrasi Akun Github
-gambar 3
+
+![3](https://user-images.githubusercontent.com/56512562/72118749-bf83b180-3384-11ea-9644-a2bffe1c33d5.png)
+
 Silahkan kunjungi https://github.com untuk melakukan registrasi. 
 
 ### Bagaimana Cara Registrasinya ?
