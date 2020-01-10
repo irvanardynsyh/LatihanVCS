@@ -4,4 +4,6 @@
 * Buat file **Readme.md**, lalu isi file tersebut dengan penjelasan **(tutorial)** cara penggunaan **git**, dan langkah - langkahnya lengkapi juga dengan **screenshoot** prosesnya.
 
 ## Apasih VCS dan Git itu?
-**Version Control System** atau **VCS** merupakan sebuah sistem yang merekam perubahan - perubahan dari satu atau sekumpulan berkas dari waktu ke waktu, sehingga anda dapat melihat kembali setiap perubahannya. **Git** sendiri merupakan salah satu **DVCS (Distributed Version Control System)** yang paling populer saat ini. 
+**Version Control System** atau **VCS** merupakan sebuah sistem yang merekam perubahan - perubahan dari satu atau sekumpulan berkas dari waktu ke waktu, sehingga anda dapat melihat kembali setiap perubahannya. **Git** sendiri merupakan salah satu **DVCS (Distributed Version Control System)** yang paling populer saat ini. Lebih tepatnya **Git** adalah perangkat lunak pengendali versi atau proyek manajemen kode perangkat lunak yang diciptakan oleh Linus Torvalds, yang pada awalnya ditujukan untuk pengembangan kernel Linux. 
+
+# Bagaimana Cara Membuat Repository 
