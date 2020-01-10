@@ -54,3 +54,26 @@ Setelah memvertifikasi akun github anda, pastikan anda telah masuk ke akun githu
 * Setelah itu buat **nama repository kamu sesuai kebutuhan kamu** dikolom **"Repository Name"**, namun untuk memudahkan kali ini kita akan menggunakan nama repository **"Latihan01"**.
 
 ## Mengaplikasikan Git
+
+Selanjutnya ditahap ini buka aplikasi yang telah anda instal tadi. Gunakan **"Git Bash"**.
+
+### Bagaimana menenmukan Git Bash ?
+Mudah saja. Buka **Menu >> All Program >> Git >> Git Bash**. Atau lebih mudahnya lagi menggunakan pencarian dengan mengetikan **"Git Bash"**.
+
+### Bagaimana untuk menjalankan program ?
+* Mengkonfigurasikan akun **Github** anda didalam **Git Bash**
+```
+$ git config --global user.name "nama_pengguna"
+$ git config -- global user.email email_pengguna@mail.com
+```
+* Memeriksa lokasi penyimpanan
+```
+$ pwd
+```
+* Memindahkan dan membuat repository lokal
+```
+$ cd d:
+$ mkdir latihan01
+$ cd latihan01
+```
+![6](https://user-images.githubusercontent.com/56512562/72119591-8731a280-3387-11ea-87e0-6b8b539b5838.png)
