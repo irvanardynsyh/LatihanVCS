@@ -77,3 +77,16 @@ $ mkdir latihan01
 $ cd latihan01
 ```
 ![6](https://user-images.githubusercontent.com/56512562/72119591-8731a280-3387-11ea-87e0-6b8b539b5838.png)
+* Setelah itu buat file "Readme.md" dengan perintah berikut
+```
+$ echo "# Latihan1" >> README.md
+$ git init 
+$ git add README.md
+$ git commit -m "File pertama saya"
+$ git remote add origin [Url_Repository_anda]
+$ git push -u origin master
+```
+* Dapatkan **"Url_Repository_anda"** dengan membuka repository **"Latihan01"** di akun Github anda. Lalu pilih "Clone or download" dan salin url yang tertera.
+
+![8](https://user-images.githubusercontent.com/56512562/72119820-543bde80-3388-11ea-9bc2-2ff59a7b3115.png)
+
