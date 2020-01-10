@@ -87,6 +87,18 @@ $ git remote add origin [Url_Repository_anda]
 $ git push -u origin master
 ```
 * Dapatkan **"Url_Repository_anda"** dengan membuka repository **"Latihan01"** di akun Github anda. Lalu pilih "Clone or download" dan salin url yang tertera.
+```
+$ git remote add origin https://github.com/irvanardynsyh/latihan01.git
+```
 
 ![8](https://user-images.githubusercontent.com/56512562/72119820-543bde80-3388-11ea-9bc2-2ff59a7b3115.png)
 
+* Tahap terakhir yaitu kirim perubahan pada lokal repository
+```
+$ git push -u origin master
+```
+* Berikut hasilnya
+
+![9](https://user-images.githubusercontent.com/56512562/72120037-24410b00-3389-11ea-91ba-941cbabd6754.png)
+
+# SELESAI
