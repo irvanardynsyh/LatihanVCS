@@ -26,7 +26,9 @@ Silahkan klik tombol **Next** hingga selesai
 Silahkan kunjungi https://github.com untuk melakukan registrasi. 
 
 ### Bagaimana Cara Registrasinya ?
-gambar 4
+
+![3](https://user-images.githubusercontent.com/56512562/72118876-2acd8380-3385-11ea-9c97-0d0a670cc2f3.png)
+
 * Klik **Sign Up** yang berada pada sudut kanan atas halaman anda
 gambar 5
 * Selanjutnya mengisi data diri
