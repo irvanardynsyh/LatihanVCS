@@ -10,10 +10,13 @@
 
 ## 1) Langkah Awal 
 Instal terlebih dahulu **Git** dengan cara mendownloadnya di halaman **http://git-scm.com/download** serta sesuaikan dengan kebutuhan dan kemampuan sistem operasi masing masing.
+
 ![1](https://user-images.githubusercontent.com/56512562/72118577-189f1580-3384-11ea-80ca-da9534cb1f42.png)
 
 ### Proses Instalasi
-gambar 2
+
+![2](https://user-images.githubusercontent.com/56512562/72118671-72074480-3384-11ea-9c52-d8b1c0e08695.png)
+
 Silahkan klik tombol **Next** hingga selesai
 
 ## 2) Registrasi Akun Github
