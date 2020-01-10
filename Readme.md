@@ -30,7 +30,9 @@ Silahkan kunjungi https://github.com untuk melakukan registrasi.
 ![3](https://user-images.githubusercontent.com/56512562/72118876-2acd8380-3385-11ea-9c97-0d0a670cc2f3.png)
 
 * Klik **Sign Up** yang berada pada sudut kanan atas halaman anda
-gambar 5
+
+![4](https://user-images.githubusercontent.com/56512562/72118948-6e27f200-3385-11ea-9648-842f20b5e3a7.png)
+
 * Selanjutnya mengisi data diri
   * Mengisi **Nama Pengguna** dikolom **Username**
   * Mengisi **Alamat Email** dikolom **Email Address**
@@ -42,10 +44,13 @@ Setelah terisi semua segera vertifikasi akun anda dengan memasukan **Kode Vertif
 Setelah memvertifikasi akun github anda, pastikan anda telah masuk ke akun github anda.
 
 ### Bagaimana cara membuat repository baru ?
-gambar 6
+
+![5](https://user-images.githubusercontent.com/56512562/72119136-f27a7500-3385-11ea-8922-dc8603feba08.png)
+
 * Klik ikon **"+"** yang berada disudut kanan atas halaman anda dan klik **"New Repository"**
 
-gambar 7
+![5](https://user-images.githubusercontent.com/56512562/72118953-708a4c00-3385-11ea-8918-c2e21c265b87.png)
+
 * Setelah itu buat **nama repository kamu sesuai kebutuhan kamu** dikolom **"Repository Name"**, namun untuk memudahkan kali ini kita akan menggunakan nama repository **"Latihan01"**.
 
 ## Mengaplikasikan Git
