@@ -41,3 +41,4 @@ gambar 6
 gambar 7
 * Setelah itu buat **nama repository kamu sesuai kebutuhan kamu** dikolom **"Repository Name"**, namun untuk memudahkan kali ini kita akan menggunakan nama repository **"Latihan01"**.
 
+## Mengaplikasikan Git
